@@ -1,3 +1,5 @@
+# Original author: Andrew Grant (Andrew6rant) — https://github.com/Andrew6rant/Andrew6rant
+# Source project: github-stats. Adapted for github.com/marcotag93; generator code is Andrew's work.
 import datetime
 from dateutil import relativedelta
 import requests
