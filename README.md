@@ -11,10 +11,4 @@
   </picture>
 </a>
 
-<sub>
-  <a href="https://scholar.google.com/citations?user=59ttOFMAAAAJ&amp;hl=it">Google Scholar</a> ·
-  <a href="https://orcid.org/0000-0002-1800-3977">ORCID</a> ·
-  <a href="https://www.researchgate.net/profile/Marco-Tagliaferri-3">ResearchGate</a> ·
-  <a href="https://www.linkedin.com/in/marco-tagliaferri1/">LinkedIn</a> ·
-  <a href="mailto:marco.tagliaferri@unitn.it">marco.tagliaferri@unitn.it</a>
-</sub>
+**[Google Scholar](https://scholar.google.com/citations?user=59ttOFMAAAAJ&hl=it)** · **[ORCID](https://orcid.org/0000-0002-1800-3977)** · **[ResearchGate](https://www.researchgate.net/profile/Marco-Tagliaferri-3)** · **[LinkedIn](https://www.linkedin.com/in/marco-tagliaferri1/)** · **[marco.tagliaferri@unitn.it](mailto:marco.tagliaferri@unitn.it)**
